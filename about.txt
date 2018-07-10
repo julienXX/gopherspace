@@ -1,0 +1,14 @@
+About me
+========
+
+Hello! I'm Julien, a software developer from Paris.
+
+You can contact me at me@julienblanchard.com.
+
+I'm also on Github (julienXX), Twitter (@julienXX)
+or Mastodon (julienxx@mastodon.social)
+
+-------
+
+Last update: 10 July, 2018
+

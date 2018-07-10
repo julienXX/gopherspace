@@ -1,0 +1,22 @@
+______ _     _
+| ___ \ |   | |
+| |_/ / |__ | | ___   __ _
+|  __/| '_ \| |/ _ \ / _` |
+| |   | | | | | (_) | (_| |
+\_|   |_| |_|_|\___/ \__, |
+                      __/ |
+                     |___/
+
+
+
+A dump of some stuff I learned and ramblings.
+
+
+0[10 Jul 2018] Phlogging        2018/phlogging.txt
+0[25 Jul 2017] Journaling my life at work using Github  2017/journaling.txt
+0[24 Jul 2017] Getting started with F# and .NET Core    2017/fsharp.txt
+0[14 May 2016] Fancy Rust development with Emacs        2016/rust_emacs.txt
+0[17 Nov 2015] Rust on AWS Lambda       2015/rust_lambda.txt
+0[29 Oct 2015] Using Resque with Rust   2015/rust_resque.txt
+0[13 Jul 2015] How I upgraded my Ruby with Contracts    2015/contracts.txt
+

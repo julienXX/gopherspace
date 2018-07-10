@@ -1,0 +1,17 @@
+Phlogging
+=========
+
+
+It's 2018 and the many attacks on the web and what it has become have
+made me reconsider alternatives. I love plain-text and simplicity so
+Gopher seems like the way of the future for free content without ads,
+marketing, mining JavaScript code...
+
+So here's a dump of my blog articles and I hope I'll phlog more than I
+blog.
+
+Long live plain-text, long live Gopher!
+
+-------
+
+Last update: 10 July, 2018
