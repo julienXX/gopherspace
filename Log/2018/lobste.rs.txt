@@ -1,0 +1,18 @@
+Lobste.rs
+=========
+
+Following my toot[0] I decided to try to build a Lobsters[1] mirror on
+Gopher.  So here is a first attempt that you can view here[2].  It's
+written in Rust and the source code is available on Github[3].
+Currently it just dumps the latest stories as a gophermap. Next I'll
+add some auto-update.
+Any suggestion is more than welcome!
+
+[0] https://mastodon.social/@julienXX/100352352358019446/
+[1] https://lobste.rs
+[2] gopher://sdf.org:70/1/users/julienxx/Lobste.rs
+[3] https://github.com/julienXX/gophsters
+
+-------
+
+Last update: 25 July, 2018
