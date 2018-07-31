@@ -1,0 +1,15 @@
+Announcing Soccer on Gopher
+===========================
+
+Following Gophsters I made a score table generator for gopher.  You
+can view it here [0]. Source code is available on GitHub [1].  It's
+written in Rust and uses some scripts to copute the files then upload
+them on SDF.
+
+Hope you'll like it :)
+
+[0] gopher://sdf.org:70/1/users/julienxx/Soccer
+[1] https://github.com/julienXX/soccer
+
+-------
+Last update: 31 July, 2018

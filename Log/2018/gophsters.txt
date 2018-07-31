@@ -1,0 +1,16 @@
+Gophsters
+=========
+
+It's alive! Finally Gophsters, my Lobsters[0] mirror on Gopher, is
+online [1].  I still have to improve the code which is pretty rough at
+the moment (no unit tests...) but I'm quite satisfied by the result of
+this 4 hours project.
+Next up I think I'll develop a gopher tool to display soccer leagues
+tables, would that interest some of you?
+Until then, happy gophing!
+
+[0] https://lobste.rs
+[1] gopher://sdf.org:70/1/users/julienxx/Lobste.rs
+
+-------
+Last update: 27 July, 2018
