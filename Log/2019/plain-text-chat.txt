@@ -1,0 +1,33 @@
+Plain-text chat
+=============== 
+
+Happy new year people of port 70!
+
+For christmas I made myself a present with this beautiful machine[0].
+I want to make it a part of the #pubnixverse, not sure of what I'll
+be able to offer there but it's already a lot of fun setting up.
+
+I've joined the 2019 finger revival intiated by solderpunk with his
+cool fellosh tool[1].
+You can check my latest project and plan with:
+
+        finger julien@typed-hole.org
+
+tomasino wrote some notes on how to install talkd[2] so if finger says
+I'm available you can try to chat with me using:
+
+        talk julien@typed-hole.org
+
+I love the idea of making an alternative and better internet with those 
+original tools and protocols.
+
+In other news I'm getting married next week, can't wait!
+
+Tags: #pubnix #finger #talk
+
+[0] gopher://typed-hole.org/Iclusterhat.jpg
+[1] gopher://zaibatsu.circumlunar.space/0/~solderpunk/phlog/were-bringin-finger-back.txt
+[2] gopher://gopher.black:70/1/phlog/20190102-talkd-on-ubuntu
+
+-------
+Last update: 6 January, 2019

@@ -1,0 +1,39 @@
+Finger your own adventure
+=========================
+
+Last night I had a funny idea, what if I could play a Choose Your Own
+Adventure game via finger?
+
+After some searches I was able to find a plain-text version of a CYOA
+book. I just had to define how the game would be playable. I though of
+splitting the book in files, one per page and use a regular expression
+to route the finger query to the correct page.
+
+The finger server on my server is efingerd[0], when editing its list
+file I noticed the #!/bin/sh shebang. I know the bash shell supports
+regular expressions so in my '/etc/efingerd/nouser' file I changed the
+shebang to #!/bin/bash and added:
+
+      if [[ "$3" =~ ^[0-9]{1,3}$ ]]; then
+        if [ -e /var/finger/cyoa/$3 ]; then
+          cat /var/finger/cyoa/$3
+          exit 0
+        fi
+      fi
+
+I match $3 (the user/service name you try to finger) againt a 1 to 3
+digits regular expression and then check if a file with that name
+exists. And that's it! I have some nice "dynamic" routing to the
+proper book page.
+
+You can try it here[1].
+
+Hope you like it!
+
+Tags: #finger #cyoa #game
+
+[0] https://korpus.sk/~garabik/software/efingerd.html
+[1] finger cyoa@typed-hole.org
+
+-------
+Last update: 24 January, 2019
